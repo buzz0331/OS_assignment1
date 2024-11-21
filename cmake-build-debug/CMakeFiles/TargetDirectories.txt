@@ -1,0 +1,3 @@
+/Users/janghyunjun/CLionProjects/OS_assignment1/cmake-build-debug/CMakeFiles/OS_assignment1.dir
+/Users/janghyunjun/CLionProjects/OS_assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/janghyunjun/CLionProjects/OS_assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
